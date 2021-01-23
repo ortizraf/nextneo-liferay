@@ -42,7 +42,7 @@ docker stats
 
 CONTAINER ID | NAME | CPU % | MEM USAGE / LIMIT | MEM % | NET I/O | BLOCK I/O | PIDS
 --- | --- | --- | --- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287
+b64ecb6d3383 | liferay_portal_1 | 2.74% | 4.007GiB / 7.779GiB | 51.51% | 4.11MB / 34.2MB | 525MB / 459MB | 84
 
 CONTAINER ID | NAME | CPU % | MEM USAGE / LIMIT | MEM % | NET I/O | BLOCK I/O | PIDS
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
