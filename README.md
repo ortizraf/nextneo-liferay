@@ -43,6 +43,9 @@ docker stats
 CONTAINER ID | NAME | CPU % | MEM USAGE / LIMIT | MEM % | NET I/O | BLOCK I/O | PIDS
 --- | --- | --- | --- |--- |--- |--- |---
 b64ecb6d3383 | liferay_portal_1 | 2.74% | 4.007GiB / 7.779GiB | 51.51% | 4.11MB / 34.2MB | 525MB / 459MB | 84
+85cd47c17b13 | liferay-mariadb | 0.33% | 144.8MiB / 7.779GiB | 1.82% | 1.37MB / 3.1MB | 79.1MB / 2.93MB | 50
+c4a6fda9822a | es02 | 1.55% | 830.3MiB / 7.779GiB | 10.42% | 1.77MB / 1.8MB | 18.7MB / 840kB | 51
+
 
 CONTAINER ID | NAME | CPU % | MEM USAGE / LIMIT | MEM % | NET I/O | BLOCK I/O | PIDS
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
